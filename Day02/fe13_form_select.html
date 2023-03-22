@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>콤보박스</title>
+</head>
+
+<body>
+    <form method="get"> <!-- 주소에 ?뒤에 다 나옴 주의! -->
+        <select name="snack" multiple="multiple"> <!-- 콤보박스,드랍다운이라고 함 -->
+            <option value="">선택!</option>
+            <option value="k">김밥</option>
+            <option value="d">떡볶이</option>
+            <option value="s">순대</option>
+            <option value="o">어묵</option>
+            <option value="t">튀김</option>
+        </select>
+
+        <select name="media">
+            <optgroup label="html5">
+                <option value="mt">Multimedia Tag</option>
+                <option value="co">Connetivity</option>
+                <option value="da">Device Access</option>
+            </optgroup>
+            <optgroup label="css">
+                <option value="an">Animatioin</option>
+                <option value="3D">3D Transform</option>
+            </optgroup>
+        </select><br>
+        <input type="email" name="email"> <!-- @는 %40로 나오게 됨 -->
+        <input type="submit" value="제출">
+    </form>
+</body>
+
+</html>
