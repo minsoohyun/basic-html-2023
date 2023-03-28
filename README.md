@@ -49,7 +49,8 @@ java 개발자 과정 프론트엔드 리포지토리
    - Bootstrap Album example 마무리
    - 포트폴리오 웹사이트 만들기
 
-   <img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/image/album_theme.png" width300>
+   <img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/album_theme.png" width300>
+  
 
 
 
