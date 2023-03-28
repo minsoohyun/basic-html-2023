@@ -10,7 +10,7 @@ java 개발자 과정 프론트엔드 리포지토리
    
 1일차 학습 내용
 <!-- ![멀티미디어](https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/Day01/image/day01.png) -->
-<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/Day01.png" width300>
+<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/day01.png" width300>
 
 ## 2일차
 - 프론트엔드 학습
