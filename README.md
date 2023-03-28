@@ -10,7 +10,7 @@ java 개발자 과정 프론트엔드 리포지토리
    
 1일차 학습 내용
 <!-- ![멀티미디어](https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/Day01/image/day01.png) -->
-<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/Day01/image/day01.png" width300>
+<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/day01.png" width300>
 
 ## 2일차
 - 프론트엔드 학습
@@ -26,7 +26,7 @@ java 개발자 과정 프론트엔드 리포지토리
 
 3일차 레이아웃
 
-<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/Day03/image/layout.png" width300>
+<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/layout.png" width300>
 
 ## 4일차
 - 프론트엔드 학습
@@ -36,7 +36,7 @@ java 개발자 과정 프론트엔드 리포지토리
     - jQuery
 
 4일차 그리드레이아웃 포토갤러리
-<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/Day04/image/gallery.png" width300>
+<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/gallery.png" width300>
 
 ## 5일차
 - 프론트엔드 학습
