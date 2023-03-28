@@ -25,7 +25,6 @@ java 개발자 과정 프론트엔드 리포지토리
     - GRID 레이아웃
 
 3일차 레이아웃
-
 <img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/layout.png" width300>
 
 ## 4일차
@@ -46,12 +45,16 @@ java 개발자 과정 프론트엔드 리포지토리
 
 ## 6일차
 - 프론트엔드 학습    
-   - Bootstrap Album example 마무리
-   - 포트폴리오 웹사이트 만들기
+    - Bootstrap Album example 마무리
+    - 핀터레스트 스타일 웹페이지 클로닝 
 
-   <img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/album_theme.png" width300>
+
+
+6일차 Bootstrap 앨범 클로닝
+<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/album_theme.png" width300>
   
-
+## 7일아
+- 프론트엔드 학습    
 
 
 
