@@ -19,12 +19,12 @@ $(window).scroll(function() {
         'left': value * -0.8 + 'px'
     });
     $('#hill3').css({
-        'top': value * 0.2 + 'px',
+        'top': value * 0.3 + 'px',
     });
     $('#hill2').css({
-        'top': value * 0.2 + 'px',
+        'top': value * 0.3 + 'px',
     });
     $('#hill').css({
-        'top': value * 0.2 + 'px',
+        'top': value * 0.3 + 'px',
     });
 });
