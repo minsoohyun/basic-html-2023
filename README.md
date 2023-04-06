@@ -95,9 +95,10 @@ SB Admin Page 마무리
 <img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/portfolio4.gif" width="700">
 
 
-
 ## 11일차
 - 프론트엔드 실습
+
+<img src="https://raw.githubusercontent.com/minsoohyun/basic-html-2023/main/image/Day11.png" width="700">
 
 ## 12일차
 - 프론트엔드 실습
